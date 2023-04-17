@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/manikchawla12/react-crud/static/css/main.756af292.css",
-    "main.js": "/manikchawla12/react-crud/static/js/main.09d4e7b8.js",
-    "static/js/787.dd320e1b.chunk.js": "/manikchawla12/react-crud/static/js/787.dd320e1b.chunk.js",
-    "index.html": "/manikchawla12/react-crud/index.html",
-    "main.756af292.css.map": "/manikchawla12/react-crud/static/css/main.756af292.css.map",
-    "main.09d4e7b8.js.map": "/manikchawla12/react-crud/static/js/main.09d4e7b8.js.map",
-    "787.dd320e1b.chunk.js.map": "/manikchawla12/react-crud/static/js/787.dd320e1b.chunk.js.map"
+    "main.css": "/react-crud/static/css/main.756af292.css",
+    "main.js": "/react-crud/static/js/main.9cad0e59.js",
+    "static/js/787.dd320e1b.chunk.js": "/react-crud/static/js/787.dd320e1b.chunk.js",
+    "index.html": "/react-crud/index.html",
+    "main.756af292.css.map": "/react-crud/static/css/main.756af292.css.map",
+    "main.9cad0e59.js.map": "/react-crud/static/js/main.9cad0e59.js.map",
+    "787.dd320e1b.chunk.js.map": "/react-crud/static/js/787.dd320e1b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.756af292.css",
-    "static/js/main.09d4e7b8.js"
+    "static/js/main.9cad0e59.js"
   ]
 }
